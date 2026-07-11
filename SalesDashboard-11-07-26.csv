@@ -1,0 +1,50 @@
+﻿Sales Dashboard
+Last updated,July 11 2026 2:20:23 PM IST
+
+Filter Selection
+Date,Custom
+Sales breakdown,Marketplace total
+Fulfilment Channel,Both (Amazon and seller)
+
+Sales Snapshot
+Total Order Items,Units Ordered,Ordered Product Sales,Average units/order item,Average sales/order item
+28,32,"₹13,462.00",1.14,480.79
+Compare Sales - Graph view
+Time,Selected date range (Ordered product sales),Selected date range (Units ordered),Same date range one year ago (Ordered product sales),Same date range one year ago (Units ordered)
+2026-06-01T00:00:00,"₹0.00",0.0,"₹0.00",0.0
+2026-06-02T00:00:00,"₹1,556.00",2.0,"₹0.00",0.0
+2026-06-03T00:00:00,"₹0.00",0.0,"₹0.00",0.0
+2026-06-04T00:00:00,"₹0.00",0.0,"₹0.00",0.0
+2026-06-05T00:00:00,"₹0.00",0.0,"₹0.00",0.0
+2026-06-06T00:00:00,"₹0.00",0.0,"₹0.00",0.0
+2026-06-07T00:00:00,"₹0.00",0.0,"₹0.00",0.0
+2026-06-08T00:00:00,"₹778.00",1.0,"₹0.00",0.0
+2026-06-09T00:00:00,"₹1,057.00",3.0,"₹0.00",0.0
+2026-06-10T00:00:00,"₹558.00",2.0,"₹0.00",0.0
+2026-06-11T00:00:00,"₹279.00",1.0,"₹0.00",0.0
+2026-06-12T00:00:00,"₹778.00",1.0,"₹0.00",0.0
+2026-06-13T00:00:00,"₹0.00",0.0,"₹0.00",0.0
+2026-06-14T00:00:00,"₹0.00",0.0,"₹0.00",0.0
+2026-06-15T00:00:00,"₹0.00",0.0,"₹0.00",0.0
+2026-06-16T00:00:00,"₹778.00",2.0,"₹0.00",0.0
+2026-06-17T00:00:00,"₹558.00",2.0,"₹0.00",0.0
+2026-06-18T00:00:00,"₹279.00",1.0,"₹0.00",0.0
+2026-06-19T00:00:00,"₹778.00",2.0,"₹0.00",0.0
+2026-06-20T00:00:00,"₹0.00",0.0,"₹0.00",0.0
+2026-06-21T00:00:00,"₹279.00",1.0,"₹0.00",0.0
+2026-06-22T00:00:00,"₹0.00",0.0,"₹0.00",0.0
+2026-06-23T00:00:00,"₹279.00",1.0,"₹0.00",0.0
+2026-06-24T00:00:00,"₹279.00",1.0,"₹0.00",0.0
+2026-06-25T00:00:00,"₹279.00",1.0,"₹0.00",0.0
+2026-06-26T00:00:00,"₹1,336.00",3.0,"₹0.00",0.0
+2026-06-27T00:00:00,"₹0.00",0.0,"₹0.00",0.0
+2026-06-28T00:00:00,"₹778.00",1.0,"₹0.00",0.0
+2026-06-29T00:00:00,"₹558.00",2.0,"₹0.00",0.0
+2026-06-30T00:00:00,"₹2,275.00",5.0,"₹0.00",0.0
+Compare Sales - Table view
+,Total Order Items,Units Ordered,Ordered Product Sales,Average units/order item,Average sales/order item
+Selected date range,28,32,"₹13,462.00",1.14,480.79
+Same date range one year ago,0,0,"₹0.00",0.0,0.0
+% change from same date range one year ago,N/A,N/A,N/A,N/A,N/A
+Selected date range through 7/11/26 2 p.m. IST,28,32,"₹13,462.00",1.14,480.79
+Same date range one year ago through 7/1/25 12 a.m. IST,0,0,"₹0.00",0.0,0.0
